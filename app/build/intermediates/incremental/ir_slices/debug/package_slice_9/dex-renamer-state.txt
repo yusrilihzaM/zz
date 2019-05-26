@@ -1,0 +1,4 @@
+#Sun May 26 22:29:19 ICT 2019
+base.0=D\:\\pelatihan\\z\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
